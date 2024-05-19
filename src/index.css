@@ -5,9 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url('../public/background_pic.png') no-repeat fixed right / contain, 
-              linear-gradient(146deg, rgba(255,181,103,1) 0%, rgba(157,24,0,1) 72%);
 }
+
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
